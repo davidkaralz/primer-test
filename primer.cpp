@@ -7,4 +7,5 @@ int main()
   std::cout << "What is your name? ";
   getline (std::cin, name);
   std::cout << "Hello, your name is: " << name << "!\n";
+  return 0
 }
